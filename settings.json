@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "NOKOBOT",
+    "username": "NOKO24BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "buckchodchuchas.aternos.me",
-    "port": 52790,
+    "ip": "immortalsmp.aternos.me",
+    "port": 32578,
     "version": "1.21.1"
   },
   "position": {
